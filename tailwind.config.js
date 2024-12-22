@@ -33,9 +33,10 @@ export default {
         marquee_right: 'marquee_right 80s linear infinite',
       }
     }
-  },
-  plugins: [
-    require('tailwindcss-dotted-background'),
-  ],
+  }
+  ,
+  // plugins: [
+  //   require('tailwindcss-dotted-background'),
+  // ],
 }
 
